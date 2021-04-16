@@ -60,7 +60,7 @@
 // FUNCTIONS
 extern void USART_Init(unsigned int ubrr);
 extern int USART_Transmit(char c, FILE *stream);
-extern int USART_Recieve(char c);
+extern char USART_Recieve(void);
 extern FILE usart_printf;
 
 #endif /* _USART_H*/
