@@ -2,7 +2,6 @@
 <br/><br/>
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/MCS-Unity/Website/blob/master/LICENSE)
-![Build](https://github.com/mcs-unity/ocpp/workflows/Build/badge.svg)
 
 ## Introduction
 
